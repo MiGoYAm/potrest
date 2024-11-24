@@ -52,9 +52,9 @@ export default function SavedScreen() {
         }}
       >
         <ThemedText style={{ textAlign: "center" }}>
-          Nothing here yet. In order to add character to saved you need to click{" "}
+          Nothing here yet. To add character click{" "}
           <Ionicons name="bookmark-outline" size={16} color={tint} /> on its
-          page or long press it on the list.
+          page or press and hold it on the list.
         </ThemedText>
       </View>
     );
